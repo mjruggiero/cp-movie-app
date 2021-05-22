@@ -1,5 +1,6 @@
 # Clever Movie Full Stack App
 This is a movie app using Django.
+
 This is a project from the [Clever Programmer](https://clever-programmer.com) Profit with Python course.
 
 ## Contents
